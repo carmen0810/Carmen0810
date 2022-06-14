@@ -1,4 +1,10 @@
 ![github-readme-profile](https://github.com/carmen0810/Carmen0810/blob/main/img.jpg)
+<a href="https://twitter.com/herrera_anicama">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/carmenherreraanicama/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=carmen0810.Carmen0810)
 
