@@ -1,10 +1,8 @@
 ![github-readme-profile](https://github.com/carmen0810/Carmen0810/blob/main/img.jpg)
-<a href="https://twitter.com/herrera_anicama">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/carmenherreraanicama/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/carlosazaustre?sub_confirmation=1)
+[![Twitch](https://img.shields.io/twitch/status/carlosazaustre?label=Follow%20me%20on%20Twitch&style=social)](https://twitch.tv/carlosazaustre)
+![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=carmen0810.Carmen0810)
 
