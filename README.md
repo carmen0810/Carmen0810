@@ -1,5 +1,5 @@
 ![github-readme-profile](https://github.com/carmen0810/Carmen0810/blob/main/img.jpg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/herrera_anicama)
+[![Twitter](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/herrera_anicama)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=carmen0810.Carmen0810)
