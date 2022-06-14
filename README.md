@@ -1,8 +1,6 @@
 ![github-readme-profile](https://github.com/carmen0810/Carmen0810/blob/main/img.jpg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/carlosazaustre?sub_confirmation=1)
-[![Twitch](https://img.shields.io/twitch/status/carlosazaustre?label=Follow%20me%20on%20Twitch&style=social)](https://twitch.tv/carlosazaustre)
-![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/herrera_anicama)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=carmen0810.Carmen0810)
 
