@@ -6,6 +6,14 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=carmen0810.Carmen0810)
 
+## Sobre mi
+
+- 👨🏻‍💻 Programadora FrontEnd apasionada por JavaScript y React
+- 📙 Estoy siempre en constante actualizacion y aprendisaje
+- Me gusta crear interfaces en la cual brinde una buena experiencia de usuario
+- Me encanta los juegos de mesa y los video juegos
+
+
 <!--
 **carmen0810/Carmen0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
