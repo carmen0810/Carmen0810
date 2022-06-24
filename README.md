@@ -15,7 +15,7 @@
 
 ## Habilidades
 
-<img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/js.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/html.png' alt='javaScript' height='60'>
+<img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/react.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/js.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/html.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/css-3.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/firebase.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/nodejs.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/figma.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/trello.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/notion.png' height='60'>
 
 
 
