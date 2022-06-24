@@ -8,10 +8,10 @@
 
 ## Sobre mi
 
-- 👨🏻‍💻 Programadora FrontEnd apasionada por JavaScript y React
-- 📙 Estoy siempre en constante actualizacion y aprendisaje
-- Me gusta crear interfaces en la cual brinde una buena experiencia de usuario
-- Me encanta los juegos de mesa y los video juegos
+- 👨🏻‍💻 Programadora FrontEnd apasionada por JavaScript y React.
+- 📙 Estoy siempre en constante actualización y aprendizaje.
+- Me gusta crear interfaces para que brinde una excelente experiencia de usuario.
+- Me encantan los juegos de mesa y los video juegos.
 
 
 <!--
