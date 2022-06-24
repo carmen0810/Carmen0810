@@ -13,6 +13,12 @@
 - Me gusta crear interfaces para que brinde una excelente experiencia de usuario.
 - Me encantan los juegos de mesa y los video juegos.
 
+## Habilidades
+
+<img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/js.png' alt='javaScript' height='60'> <img src='https://raw.githubusercontent.com/carmen0810/Carmen0810/main/html.png' alt='javaScript' height='60'>
+
+
+
 
 <!--
 **carmen0810/Carmen0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
